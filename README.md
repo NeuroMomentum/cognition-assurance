@@ -1,5 +1,5 @@
 # Cognition Assurance
-A Comprehensive Framework for Ensuring the Integrity, Transparency, & Reliability of Cognitive Systems.
+A Comprehensive Frameworks for Ensuring the Integrity, Transparency, & Reliability of Cognitive Systems.
 
 ## Introduction
 
