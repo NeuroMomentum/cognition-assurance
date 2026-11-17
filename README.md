@@ -44,7 +44,7 @@ In an era defined by rapid advancements in artificial intelligence, neurotechnol
 
  * AI Safety and Alignment: Ensuring AI systems operate as intended and do not produce harmful or unpredictable behaviors.
 
- * Neuro-Ethical ('NeuroEthics') Considerations: Safeguarding human cognitive autonomy and privacy in the face of emerging neuro-technologies.
+ * Neuro-Ethical ('NeuroEthics') Considerations: Safeguarding human cognitive autonomy and privacy in the face of emerging neurotechnologies.
 
  * Human-AI Collaboration: Optimizing the benefits of hybrid intelligence while mitigating risks of cognitive overload, bias amplification, or loss of human agency.
 
