@@ -9,6 +9,7 @@ This repository introduces and defines the term 'Cognition Assurance', a critica
 
 The term 'Cognitive Assurance' is proposed by NeuroMomentum Consulting Services, a U.S. Registered LLC.
 
+www.CognitionAssurance.Com
 ## Definition
 
 Cognition Assurance is a comprehensive, multidisciplinary discipline comprising a systematic framework and a set of methodologies meticulously designed to ensure, monitor, and validate the holistic integrity, transparency, and reliability of cognitive processes. This applies universally, whether these processes are inherently human, purely artificial, or intricately hybrid, spanning all critical functions including reasoning, perception, decision-making, learning, actions, and behaviors.
