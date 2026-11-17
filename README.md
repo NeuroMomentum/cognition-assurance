@@ -7,7 +7,7 @@ This repository introduces and defines the term 'Cognition Assurance', a critica
 
 ## Origin of Terminology
 
-The term [Cognition Assurance](https://cognitionassurance.com) is proposed by NeuroMomentum Consulting Services, a U.S. Registered LLC.
+The term [Cognition Assurance](https://www.cognitionassurance.com) is proposed by NeuroMomentum Consulting Services, a U.S. Registered LLC.
 
 ## Definition
 
